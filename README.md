@@ -20,5 +20,5 @@
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
  
  
- <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&layout=compact&theme=vision-friendly-dark" />
+ <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
