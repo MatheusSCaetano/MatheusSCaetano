@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Bem vindo(a) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 🔭 Estudando desenvolvimento Web completo
 
@@ -11,10 +11,10 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MatheusSCaetano/github-readme-stats)
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -31,7 +31,7 @@
   </a> 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Versionamento:</h3>
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -39,14 +39,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**Estatisticas📈** 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano=react&layout=compact" />
 </p>
 
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contate-me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-caetano-22a747206/)
