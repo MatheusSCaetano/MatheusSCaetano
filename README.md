@@ -41,16 +41,10 @@
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano=react&layout=compact" />
 </p>
 
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2022.
-
----
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
