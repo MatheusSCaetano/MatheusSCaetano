@@ -2,7 +2,7 @@
 
 - 🔭 Estudando desenvolvimento Web completo
 
-- 🌱 Focado nas técnologias Javascript, HTLM e CSS
+- 🌱 Focado nas técnologias Python e Django
 
 - 👯 Em busca da primeira oportunidade de trabalho
 
