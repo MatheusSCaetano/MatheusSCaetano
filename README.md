@@ -2,7 +2,7 @@
 
 - 🔭 Estudando desenvolvimento Web completo
 
-- 🌱 Focado nas técnologias JS e React
+- 🌱 Focado nas técnologias PHP e Laravel
 
 - 👯 Em busca da primeira oportunidade de trabalho
 
